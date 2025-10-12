@@ -22,17 +22,17 @@ I enjoy working on both backend logic and beautiful front-end designs that deliv
 - C# (Windows Forms, ASP.NET)
 - Python (OOP, File Handling, Algorithms)
 - PHP (Full Stack Web Development)
-- SQL(SQL Server, Oracle, Access, Excell)
+- SQL (SQL Server, Oracle, Access, Excel)
 
 ### 🌐 Frontend & Design
 - HTML5, CSS3, JavaScript, Bootstrap
 - Figma (UI/UX Design), Responsive Web Design
 
 ### 🗄️ Databases
-- Oracle , SQL Server , Access, Excel
+- Oracle, SQL Server, MS Access, Excel
 
 ### 🧩 Tools & Platforms
-- Git, GitHub, Visual Studio, VS Code , XAMPP
+- Git, GitHub, Visual Studio, VS Code, XAMPP
 
 ---
 
@@ -45,15 +45,15 @@ Includes employee and customer modules with validation, lists, and file handling
 🔹 [**Yemen Technology Project**](https://github.com/MostafaTonin/YemenTechnologyProject)  
 A full university research and system design report (Ch. 1–4) built with academic standards.
 
-🔹 [** My Website Front-end Project **](https://github.com/MostafaTonin/MyWebsiteFrontEndProject-Responsive)  
-A fully responsive login page with HTML, CSS, and modern UI design principles.
+🔹 [**My Website Front-end Project**](https://github.com/MostafaTonin/MyWebsiteFrontEndProject-Responsive)  
+A fully responsive login and front-end page built with HTML, CSS, and modern UI design principles.
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MostafaTonin&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaTonin&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MostafaTonin&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaTonin&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MostafaTonin&theme=radical)
 
 ---
@@ -69,9 +69,9 @@ My focus is on building solutions that are practical, efficient, and elegant.
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/mostafa-tonin)  
-[![GitHub](https://github.com/MostafaTonin/MostafaTonin/)](https://github.com/MostafaTonin)  
-📧 **Email:** moustafa.tonin@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mostafa-tonin-762461297/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/MostafaTonin)  
+📧 **Email:** moustafa.tonin@gmail.com  
 
 ---
 
